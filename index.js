@@ -1,3 +1,5 @@
+import './style.css';
+
 var acctData = [
   {
     "acctNum": "AAA - 1234", "user": "Alice"
